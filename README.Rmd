@@ -1,12 +1,12 @@
 ---
-title: "Untitled"
+title: "Ejemplo 1"
 output: github_document
 ---
 
 ## GitHub Documents
 
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "victor.cruz@anahuac.mx"
+
 
 ```{r cars}
 summary(cars)
