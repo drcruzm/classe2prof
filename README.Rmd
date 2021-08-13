@@ -1,0 +1,23 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+## GitHub Documents
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
